@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100vw;
+  height: 15vh;
+  padding: 8px;
+  background: #175d8c;
+
+  text-transform: uppercase;
+
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    img {
+      width: 100px;
+    }
+
+    strong {
+      font-size: 38px;
+      color: #fff;
+      font-weight: 900;
+    }
+  }
+}

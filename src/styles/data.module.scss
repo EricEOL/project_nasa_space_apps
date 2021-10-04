@@ -1,0 +1,20 @@
+.content {
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  width: 100%;
+
+  div {
+    label {
+      display: block;
+      font-size: 22px;
+      text-transform: uppercase;
+      font-weight: 900;
+      color: #175d8c;
+      margin-bottom: 20px;
+    }
+  }
+}

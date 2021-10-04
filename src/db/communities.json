@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alemão",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": 2,
+    "name": "Rocinha",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": 3,
+    "name": "Maré",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro"
+  }
+]
